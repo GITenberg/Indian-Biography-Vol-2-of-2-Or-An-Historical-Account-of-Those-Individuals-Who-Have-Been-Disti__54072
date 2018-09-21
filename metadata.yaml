@@ -1,0 +1,28 @@
+_repo: Indian-Biography-Vol-2-of-2-Or-An-Historical-Account-of-Those-Individuals-Who-Have-Been-Disti__54072
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Thatcher, B. B. (Benjamin Bussey)
+    alias: Thatcher, Benjamin Bussey
+    birthdate: 1809
+    deathdate: 1840
+    gutenberg_agent_id: '47694'
+    url: http://www.gutenberg.org/2009/agents/47694
+description: ''
+gutenberg_issued: '2017-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54072'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Indians of North America -- Biography'
+- !lcsh 'Indians of North America -- History'
+- !lcc 'E011'
+- GITenberg
+title: "Indian Biography; Vol. 2 (of 2)\r\nOr, An Historical Account of Those Individuals\
+  \ Who Have Been Distinguished among the North American Natives as Orators, Warriors,\
+  \ Statesmen, and Other Remarkable Characters"
+url: http://www.gutenberg.org/ebooks/54072
